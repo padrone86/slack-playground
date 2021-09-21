@@ -1,3 +1,5 @@
 export SLACK_APP_TOKEN=xoxb-HOGE-FUGA-PIYO
+export SLACK_USER_TOKEN=xoxp-FOO-BAR
+export POST_CHANNEL='#sample-channel'
 export LATEST='2021-10-01 00:00:00'
 export OLDEST='2021-04-01 00:00:00'
