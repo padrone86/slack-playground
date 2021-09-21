@@ -1,0 +1,2 @@
+gem 'solargraph'
+gem 'slack-ruby-client'
