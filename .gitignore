@@ -57,3 +57,6 @@ build-iPhoneSimulator/
 
 # direnv
 .envrc
+
+# stamp-counter specific
+stamp-counter/report.csv
